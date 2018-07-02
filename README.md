@@ -8,4 +8,4 @@ Library for storing knowledge
 # Наука
 # Программирование
 ## Паттерны проектирования
-1. [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns). Список паттерное проектирования, реализованных на Java.
+1. [Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns). Список шаблонов проектирования, реализованных на Java.
