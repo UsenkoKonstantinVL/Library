@@ -5,7 +5,7 @@
 - [Reinforcement learning](#Reinforcement-learning)
 - [Книги](#Книги)
 - [Репозитории](#Репозитории)
-- [Словарь](#Словарь)
+- [Разное](#Разное)
 ## Reinforcement learning
 - [Яндекс](https://github.com/yandexdataschool/Practical_RL). Курс по Reinforcement learning.
 
