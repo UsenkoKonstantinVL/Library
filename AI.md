@@ -18,6 +18,7 @@
 
 ## Разное
 - [Словарь](https://towardsdatascience.com/the-deep-learning-ai-dictionary-ade421df39e4) Deep Learning.
+- [Алгоритмы оптимизации](http://ruder.io/optimizing-gradient-descent/index.html).
 
 
 
