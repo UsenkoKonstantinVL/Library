@@ -4,7 +4,7 @@ Library for storing knowledge.
 ## Содержание
 0. Наука
 1. [Программирование](https://github.com/UsenkoKonstantinVL/Library/blob/master/Programming.md)
-2. Искуственный интеллект
+2. Искусственный интеллект
 3. Робототехника
 
  
