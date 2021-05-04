@@ -33,7 +33,9 @@ Library for storing knowledge.
 # Robotics
 
 ## SLAM
+- [LOAM: Lidar Odometry and Mapping in Real-time](https://www.ri.cmu.edu/pub_files/2014/7/Ji_LidarMapping_RSS2014_v8.pdf) - a real-time method for odometry and mapping using range measurements from a 2-axis lidar moving in 6-DOF.
 - [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - A-LOAM is an Advanced implementation of LOAM (J. Zhang and S. Singh. LOAM: Lidar Odometry and Mapping in Real-time), which uses Eigen and Ceres Solver to simplify code structure. This code is clean and simple without complicated mathematical derivation and redundant operations. It is a good learning material for SLAM beginners.
+- [A fast, complete, point cloud based loop closure for LiDAR odometry and mapping](https://arxiv.org/pdf/1909.11811.pdf) - a loop closure method to correct the long-term drift in LiDAR odometry and mapping (LOAM).
 
 ## Planning
 - [Репозиторий с алгоритмами планирования пути](https://github.com/zhm-real/PathPlanning).
