@@ -56,6 +56,7 @@ Library for storing knowledge.
 - [Kalman and bayesian filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python).
 - [Quaternion kinematics for the error-state Kalman filter](https://arxiv.org/pdf/1711.02508.pdf).
 - [Filters](https://github.com/rlabbe/filterpy) (KF, EKF, UKF, ...) implementation in Python.
+- [Using Inertial Sensors for Position and Orientation Estimation](https://arxiv.org/pdf/1704.06053.pdf).
 
 ## Optimization
 - [g2opy](https://github.com/uoip/g2opy) - graph optimization framework in python. 
