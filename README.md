@@ -9,6 +9,12 @@ Library for storing knowledge.
 - [Deep RL](https://skymind.ai/wiki/deep-reinforcement-learning).
 - [Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning)
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html)
+- [Reinforcement Learning Course Materials](https://github.com/upb-lea/reinforcement_learning_course_materials). Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University.
+- [Курс Машинное обучение с подкреплением](http://rairi.ru/wiki/index.php/Машинное_обучение_с_подкреплением), лектор А.И. Панов.
+
+## Learning videos
+- [Keras with TensorFlow Course](https://www.youtube.com/watch?v=qFJeN9V1ZsI) - Python Deep Learning and Neural Networks for Beginners Tutorial.
+- [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=1928s) - Python Neural Networks for Beginners Tutorial
 
 ## Книги
 - [Deep learning book](http://www.deeplearningbook.org). Учебник по дисциплине Deep Learning. 
