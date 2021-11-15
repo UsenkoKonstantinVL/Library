@@ -43,6 +43,9 @@ Library for storing knowledge.
 - [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) - A-LOAM is an Advanced implementation of LOAM (J. Zhang and S. Singh. LOAM: Lidar Odometry and Mapping in Real-time), which uses Eigen and Ceres Solver to simplify code structure. This code is clean and simple without complicated mathematical derivation and redundant operations. It is a good learning material for SLAM beginners.
 - [A fast, complete, point cloud based loop closure for LiDAR odometry and mapping](https://arxiv.org/pdf/1909.11811.pdf) - a loop closure method to correct the long-term drift in LiDAR odometry and mapping (LOAM).
 
+## Control
+- [Feedback Systems: An Introduction for Scientists and Engineers](https://fbswiki.org/wiki/index.php/Main_Page)  Second Edition, Karl J. Åström and Richard M. Murray
+
 ## Planning
 - [Репозиторий с алгоритмами планирования пути](https://github.com/zhm-real/PathPlanning).
 
